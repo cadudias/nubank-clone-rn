@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Container, Top, Logo, Title } from './style'
+import { Container, Top, Logo, Title } from './styles'
 
 import logo from '~/assets/Nubank_Logo.png'
 

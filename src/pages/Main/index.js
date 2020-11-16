@@ -17,7 +17,7 @@ export default function Main() {
         <Card>
           <CardHeader>
             <Icon name="attach-money" size={28} color="#666"/>
-            <Icon name="visibility-off" size={28} color="#fff"/>
+            <Icon name="visibility-off" size={28} color="#666"/>
           </CardHeader>
           <CardContent>
             <Title>Saldo indisponível</Title>
